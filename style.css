@@ -87,7 +87,7 @@ footer {
   margin: 0 auto;
 }
 
-..project-card {
+.project-card {
   background-color: #fff0f6;
   border: 1px solid #f8bbd0;
   border-radius: 20px;
