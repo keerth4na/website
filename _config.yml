@@ -1,0 +1,33 @@
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+minimal_mistakes_skin: "air" # Ultra-clean, professional white/gray palette
+
+title: "Your Name"
+name: "Your Name"
+bio: "HCI & CSCW Researcher | DH Lab Project Manager"
+location: "Your City, State"
+email: "your.email@university.edu"
+uri: "https://yourusername.github.io"
+
+# Structural Collections
+collections:
+  publications:
+    output: true
+    permalink: /publications/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+# Navigation bar configuration
+defaults:
+  - scope:
+      path: ""
+      type: "publications"
+    values:
+      layout: "single"
+      sidebar:
+        nav: "main"
+  - scope:
+      path: ""
+    values:
+      layout: "single"
+      author_profile: true # Forces the classic professor-style sidebar
