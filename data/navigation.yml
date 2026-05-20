@@ -1,0 +1,9 @@
+main:
+  - title: "About"
+    url: /
+  - title: "Research & Publications"
+    url: /publications/
+  - title: "Projects & Leadership"
+    url: /projects/
+  - title: "CV"
+    url: /cv/
