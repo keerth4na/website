@@ -1,7 +1,7 @@
 main:
   - title: "About"
     url: /
-  - title: "Research & Publications"
+  - title: "Publications & Presentations"
     url: /publications/
-  - title: "Projects & Leadership"
+  - title: "Projects & Research"
     url: /projects/
