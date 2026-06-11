@@ -7,7 +7,7 @@ author_profile: true
 
 
 ### 💻 NSF REU: Smart and Future Computing (TryCycle Project)
-**Research Fellow** | *UNC Charlotte (Woodward Hall Lab)* | *Summer 2026 – Present*
+**Research Fellow** | *UNC Charlotte (HCC Lab)* | *Summer 2026 – Present*
 * **System Focus:** Co-designing and evaluating **TryCycle**, an LLM-powered educational tool designed to scaffold the "Design Recipe" (problem understanding, data definition, signature/purpose, templates, implementation, testing) in introductory Python courses (CS1/CS2). 
 * **HCI & UX Intervention:** Iterating on system prompts and UI presentation to transition the tool from a linear system to a highly iterative "design staircase." Refining feedback mechanisms to be concise, visually annotated, and strategically timed to encourage students to iterate on previous steps before writing code.
 * **Experimental Design & Methodology:** Architecting a lab study using a **Pre-Test / Mid-Task (with App) / Post-Test** framework to evaluate the generalization of computational thinking skills without the app. Implementing a *Think-Aloud Protocol*, recording/transcribing sessions, and tracking telemetry metrics (completion time, number of LLM feedback retries).
