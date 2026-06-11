@@ -4,8 +4,8 @@ title: "Research & Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-### 📄 Peer-Reviewed Conference Papers
+<!-- 
+### 📄 Publications
 
 1.  **Your Name**, Second Author, Third Author, Senior Author. 
     **"Title of Your AICS Paper."** 
@@ -15,26 +15,20 @@ author_profile: true
     > **Focus:** Worked on the structural design and evaluation of [mention system component], analyzing how users navigate complex semantic representations.
 
 ---
+-->
+### 🏛️ Presentations
 
-### 📊 Peer-Reviewed Posters
-
-2.  **Your Name**, Second Author. 
-    **"Title of Your ASIST Poster."** 
-    *Poster Session, Association for Information Science and Technology Annual Meeting (ASIST)*, 2025. <span style="color: #b51a1a; font-weight: bold;">[First Author]</span>
-    [[Poster Link]](#) [[Abstract Document]](#)
-
----
-
-### 🏛️ Selected Local Presentations & Symposia
-*These represent non-archival presentations delivered at institutional research venues.*
-
-*   **Your Name**, [Collaborator Names]. 
-    **"Title of Your Undergrad Symposium Poster."** 
-    Presented at the *[Your University] Undergraduate Research Symposium*, Spring 2025.
+*   **Keerthana Kompella**, [Khadija Saho, Teanna Barrett, B. Biira, Jainaba Jawara, Andrew Shaw, Leilani Battle, Amy X. Zhang]. 
+    **"Moral Missions: Prototyping and Designing to Support Moral Decision-Making Procedures of Responsible Data Scientists."** 
+    Presented at the *University of Washington Paul G. ALlen School Undergraduate and Masters Research Symposium*, Spring 2026.
     [[Poster PDF](#)]
     
-    > **Project Summary:** Investigated communication gaps in grassroots digital archiving workflows, using qualitative interview schemas to map metadata challenges.
+    > **Research Question[s] Explored:** What types of interactive tools can best empower data scientists to integrate their personal moral values into concrete technical decisions?
 
-*   **Your Name**, Teanna Barrett.
-    **"Preliminary Insights on Community Infrastructure Moderation."**
-    Presented at the *[Your Lab Name or Local DUB/HCI Event]*, Fall 2025.
+*   **Keerthana Kompella**, [Siham Mohammed, Thanh Trinh,  Teanna Barrett, Leilani Battle]. 
+    **"African Data Ethics: Centering African Values in Artificial Intelligence Resource Page"** 
+    Presented at the *University of Washington Paul G. ALlen School Undergraduate and Masters Research Symposium*, Spring 2025.
+    [[Poster PDF](#)]
+    
+    > **Research Question(s) Explored:** What are the key themes of African AI ethics today, and how are they likely to evolve in the future? How can we promote the usability of African AI ethics frameworks by AI practitioners??
+
