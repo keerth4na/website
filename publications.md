@@ -20,7 +20,7 @@ author_profile: true
 
 *   **Keerthana Kompella**, [Nadia Najjar]. 
     **"African Data Ethics: Centering African Values in Artificial Intelligence Resource Page"** 
-    Presented at the *University of Charlotte Summer Research Symposium*, Summer 2026.
+    Presented at the *University of North Carolina Charlotte Summer Research Symposium*, Summer 2026.
     [[Poster PDF](#2026UNCCREUPosterKompella.pdf)]
     
     > **Research Question(s) Explored:** How can Cognitive Load Theory inform the interface design of AI coding tutors to better support the iterative steps of the Design Recipe? 
