@@ -1,12 +1,16 @@
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 minimal_mistakes_skin: "air" # Ultra-clean, professional white/gray palette
 
-title: "Your Name"
-name: "Your Name"
-bio: "HCI & CSCW Researcher | DH Lab Project Manager"
-location: "Your City, State"
-email: "your.email@university.edu"
-uri: "https://yourusername.github.io"
+title: "Keerthana Kompella"
+name: "Keerthana Kompella"
+bio: "HCI & CSCW Researcher | Svoboda Diaries Project Manager"
+location: "Seattle, WA"
+email: "keertk@uw.edu"
+uri: "https://keerth4na.github.io/website"
 
 # Structural Collections
 collections:
